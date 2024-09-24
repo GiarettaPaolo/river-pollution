@@ -7,6 +7,6 @@ This project is a bottom-up Python implementation of the Finite Element Method (
 
 <br>
 <div align="center">
-  <img src="Images/stab-1.png" height="150">
-  <img src="Images/stab-2.png" height="150">
+  <img src="Images/nostab-2.png" width=900>
+  <img src="Images/stab-2.png" width=900>
 </div>
